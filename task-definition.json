@@ -52,10 +52,6 @@
   "placementConstraints": [],
   "memory": "300",
   "taskRoleArn": null,
-  "compatibilities": [
-    "EC2"
-  ],
-  "taskDefinitionArn": "arn:aws:ecs:us-east-1:322378525166:task-definition/tomcat-task-def:1",
   "family": "tomcat-task-def",
   "requiresAttributes": [],
   "pidMode": null,
@@ -64,8 +60,6 @@
   ],
   "networkMode": null,
   "cpu": "250",
-  "revision": 1,
-  "status": "ACTIVE",
   "inferenceAccelerators": null,
   "proxyConfiguration": null,
   "volumes": []
